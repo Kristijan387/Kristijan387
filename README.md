@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kristijan387
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞 I’m looking to collaborate on ...
 - 📫 E-mail: kristijangligorijevic225@gmail.com
 
 <!---
